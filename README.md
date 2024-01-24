@@ -3,7 +3,7 @@
 - ``` composer install ```
 - create your database and add it in DB_DATABASE variabel inside .env file, use this command if for copying .env.example became .env ``` cp .env.example .env ```
 - ``` php artisan key:generate ```
-- # shield
+- ## shield
     - ``` php artisan shield:install ```
 
 ## How to use shield plugin for resource
