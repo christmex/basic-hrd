@@ -47,7 +47,7 @@ class User extends Authenticatable implements FilamentUser
         'password' => 'hashed',
     ];
 
-    public $domain = '@admin.com';
+    public $domain = '@sekolahbasic.sch.id';
 
     public function canAccessPanel(Panel $panel): bool
     {
